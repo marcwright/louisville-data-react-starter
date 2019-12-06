@@ -3,7 +3,9 @@
 
 [Louisville Open Data](https://data.louisvilleky.gov/search/type/dataset)
 
-## Suggested Endpoints
+<br>
+
+## Suggested Endpoint Documentation
 
 1. [Services Legacy API Endpoint](https://data.louisvilleky.gov/dataset/louisville-metro-services-lookup/resource/ae18fe6a-2afd-4385-894c-2a7234a81d90)
 
@@ -14,8 +16,10 @@
 4. [Air Quality API](https://data.louisvilleky.gov/dataset/local-air-quality-api/resource/1e482601-9848-4f86-92a4-203180ef74de)
 
 5. [Dockless Vehicle Trips Block Level](https://data.louisvilleky.gov/node/26501/api)
-[Trip Duration](https://data.louisvilleky.gov/api/action/datastore/search.json?resource_id=e36546f6-888b-4e66-8a87-9b68cab471e6&limit=10)
 
+  - [Trip Duration](https://data.louisvilleky.gov/api/action/datastore/search.json?resource_id=e36546f6-888b-4e66-8a87-9b68cab471e6&limit=10)
+
+<br>
 
 ## Available Scripts
 
