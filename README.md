@@ -24,7 +24,7 @@
 
 ## Additiional Resources
 
-[CSV to JSON NPM](https://www.npmjs.com/package/convert-csv-to-json)
+- [CSV to JSON NPM Module](https://www.npmjs.com/package/convert-csv-to-json)
 
 <br>
 
