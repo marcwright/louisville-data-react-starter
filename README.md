@@ -25,6 +25,7 @@
 ## Additiional Resources
 
 - [CSV to JSON NPM Module](https://www.npmjs.com/package/convert-csv-to-json)
+- [DKAN Documentation](https://github.com/Getdkan/dkan)
 
 <br>
 
