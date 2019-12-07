@@ -1,7 +1,8 @@
 ## Louisville Open Data React Starter Code
 
 
-[Louisville Open Data](https://data.louisvilleky.gov/search/type/dataset)
+- [Louisville Open Data](https://data.louisvilleky.gov/search/type/dataset)
+- [Louisville Open Data Gallery](https://data.louisvilleky.gov/open-data-gallery)
 
 <br>
 
